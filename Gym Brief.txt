@@ -1,0 +1,21 @@
+The Gym at Sky have asked for a core KPI pack 
+and self-serve data on performance to help them 
+increase membership and reduce queue times at 
+busy periods. 
+
+Can you create a short presentation (max 3 slides) 
+explaining how you would go about this activity, 
+what data solution you propose the type of dashboard 
+reports and how the gym team could self-serve.
+
++ Queues:  Waiting time/reserves list for classes
++ Queues: can't analyze queue times for machines - can only look at volumes of members in gym
+	+ Define beforehand how queue times are defined - can they do anything to better measure queues
+	+ Customer satisfaction surveys for members - actual survey vs NPS machines - feed this into dashboard
+	+ Clarify that KPIs are only indicaters - not proxys necessarily
+	+ Need to discuss with client beforehand what they want to try and measure
+		+ Understand what they're asking for and whether or not the data is available to run those analyses
+		+ Decide what analyses we data we have that can be used to define Queue time ongoing - do we ned to start collecting new data?
+
++ Clairfy you can drill down by time and demog combined
++ Start with final dashboard and drill down - flip order
