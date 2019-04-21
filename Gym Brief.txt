@@ -8,6 +8,15 @@ explaining how you would go about this activity,
 what data solution you propose the type of dashboard 
 reports and how the gym team could self-serve.
 
+Slide 1:
+Approach - discuss user requirements + data available
+
+Slide 2:
+KPIs - Decide on KPIs - based on thise show a high level sample dashboard - latest period
+
+Slide 3:
+Self Serve - sample of drill down charts
+
 + Queues:  Waiting time/reserves list for classes
 + Queues: can't analyze queue times for machines - can only look at volumes of members in gym
 	+ Define beforehand how queue times are defined - can they do anything to better measure queues
